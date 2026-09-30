@@ -1,0 +1,20 @@
+# Generated features and large artifacts
+*.npy
+*.pkl
+*.pt
+*.safetensors
+attention_features.csv
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
